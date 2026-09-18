@@ -1,0 +1,23 @@
+# WhatsApp saved login/session
+whatsapp_profile/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.venv/
+
+# Excel files containing contacts or sent data
+Contact.xlsx
+Sent_Contacts_*.xlsx
+
+# Screenshots
+*.png
+
+# VS Code settings
+.vscode/
+
+# Environment variables
+.env
